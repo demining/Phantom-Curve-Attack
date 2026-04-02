@@ -1701,7 +1701,7 @@ s₂ = k⁻¹·(H(m₂) + r·d) mod n</strong></code></pre>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter is-resized"><a href="https://dzen.ru/video/watch/69431d5dfd50136dae291001" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="522" height="516" src="./Phantom Curve Attack_files/image-3.png" alt="RingSide Replay Attack: SEED Recovery → Bitcoin wallet private key derivation and how 32-bit entropy instead of 256-bit led to the systematic compromise of crypto-asset funds" class="wp-image-3591" style="width:526px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/12/image-3.png 522w, https://cryptodeeptech.ru/wp-content/uploads/2025/12/image-3-300x297.png 300w" sizes="auto, (max-width: 522px) 100vw, 522px"></a></figure>
+<figure class="aligncenter is-resized"><a href="https://dzen.ru/video/watch/69c8603451b3e70d64f66471" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="522" height="516" src="./Phantom Curve Attack_files/image-3.png" alt="RingSide Replay Attack: SEED Recovery → Bitcoin wallet private key derivation and how 32-bit entropy instead of 256-bit led to the systematic compromise of crypto-asset funds" class="wp-image-3591" style="width:526px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/12/image-3.png 522w, https://cryptodeeptech.ru/wp-content/uploads/2025/12/image-3-300x297.png 300w" sizes="auto, (max-width: 522px) 100vw, 522px"></a></figure>
 </div>
 
 
@@ -1737,7 +1737,7 @@ s₂ = k⁻¹·(H(m₂) + r·d) mod n</strong></code></pre>
 
 
 
-<p><strong><a href="https://dzen.ru/video/watch/69431d5dfd50136dae291001" target="_blank" rel="noreferrer noopener">Video tutorial: https://dzen.ru/video/watch/69431d5dfd50136dae291001</a></strong></p>
+<p><strong><a href="https://dzen.ru/video/watch/69c8603451b3e70d64f66471" target="_blank" rel="noreferrer noopener">Video tutorial: https://dzen.ru/video/watch/69c8603451b3e70d64f66471</a></strong></p>
 
 
 
