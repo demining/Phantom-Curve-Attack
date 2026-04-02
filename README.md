@@ -45,6 +45,24 @@
 <hr class="wp-block-separator has-alpha-channel-opacity">
 
 
+* Tutorial: https://youtu.be/pM0fuUZk8p4
+* Tutorial: https://cryptodeeptech.ru/phantom-curve-attack
+* Tutorial: https://dzen.ru/video/watch/69c8603451b3e70d64f66471
+* Google Colab: https://bitcolab.ru/keysilentleak-cryptanalytic-research-tool
+
+
+</ul>
+</blockquote>
+
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity">
+
+
 
 <h3 class="wp-block-heading">1. A New Threat to Hardware Wallets – Dark Skippy</h3>
 
@@ -1701,7 +1719,7 @@ s₂ = k⁻¹·(H(m₂) + r·d) mod n</strong></code></pre>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter is-resized"><a href="https://dzen.ru/video/watch/69c8603451b3e70d64f66471" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="522" height="516" src="./Phantom Curve Attack_files/image-3.png" alt="RingSide Replay Attack: SEED Recovery → Bitcoin wallet private key derivation and how 32-bit entropy instead of 256-bit led to the systematic compromise of crypto-asset funds" class="wp-image-3591" style="width:526px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/12/image-3.png 522w, https://cryptodeeptech.ru/wp-content/uploads/2025/12/image-3-300x297.png 300w" sizes="auto, (max-width: 522px) 100vw, 522px"></a></figure>
+<figure class="aligncenter is-resized"><a href="https://dzen.ru/video/watch/69c8603451b3e70d64f66471" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="522" height="516" src="./Phantom Curve Attack_files/image-3a.png" alt="RingSide Replay Attack: SEED Recovery → Bitcoin wallet private key derivation and how 32-bit entropy instead of 256-bit led to the systematic compromise of crypto-asset funds" class="wp-image-3591" style="width:526px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2026/03/image-8.png 522w, https://cryptodeeptech.ru/wp-content/uploads/2026/03/image-8.png-300x297.png 300w" sizes="auto, (max-width: 522px) 100vw, 522px"></a></figure>
 </div>
 
 
